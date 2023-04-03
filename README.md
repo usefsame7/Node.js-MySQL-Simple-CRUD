@@ -1,1 +1,1 @@
-# Node.js and MySQL Simple CRUD with JWT Authentication
+# Node.js and MySQL Simple CRUD with JWT User Authentication
