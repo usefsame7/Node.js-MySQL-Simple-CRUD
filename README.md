@@ -1,6 +1,6 @@
 # Node.js MySQL Simple CRUD
 
-This is a simple CRUD (Create, Read, Update, Delete) application built with Node.js and MySQL. It provides a basic web interface to perform CRUD operations on a MySQL database.
+This is a simple CRUD (Create, Read, Update, Delete) application built with Node.js and MySQL. It provides a basic web api to perform CRUD operations on a MySQL database.
 
 ## Prerequisites
 
