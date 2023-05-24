@@ -61,15 +61,4 @@ The application provides a simple web interface to perform CRUD operations on a 
 - **Update**: Click on the "Edit" button next to a record to modify its values.
 - **Delete**: Click on the "Delete" button next to a record to remove it from the database.
 
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on GitHub.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-- This project was inspired by the need for a simple CRUD application using Node.js and MySQL.
-- Thanks to the open-source community for their contributions to the development of the tools and libraries used in this project.
+ - Regards . Y
