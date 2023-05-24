@@ -61,4 +61,3 @@ The application provides a simple web interface to perform CRUD operations on a 
 - **Update**: Click on the "Edit" button next to a record to modify its values.
 - **Delete**: Click on the "Delete" button next to a record to remove it from the database.
 
- - Regards . Y
